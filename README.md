@@ -1,0 +1,1 @@
+Text could be converted into speech/audio and that is exactly what is being covered in this specific section where we build a tool that generates audio from a given text. Not just that, we also learn how to convert an entire text file into mp3 which can be used to generate audiobooks from ebooks. We also learn how to convert the user input into speech.
